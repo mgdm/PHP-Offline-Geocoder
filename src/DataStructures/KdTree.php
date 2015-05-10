@@ -34,7 +34,19 @@ class KdTree {
     {
         $this->bounds = $bounds;
         $this->dimension = $dimension;
+
+        array_walk($nodes, [$this, 'validateNode']);
+
         $this->root = $this->buildTree(0, $nodes);
+    }
+
+    private function validateNode($node)
+    {
+        if (!$node instanceof KdNode) {
+            throw new \InvalidArgumentException("Input types must be instances of " . __NAMESPACE__ . "\\KdNode");
+        }
+
+        $node->setSplit(0);
     }
 
     /**
@@ -48,29 +60,14 @@ class KdTree {
             return null;
         }
 
-        array_map(function($n) use ($split) {
-            if (!$n instanceof KdNode) {
-                throw new \InvalidArgumentException("Input types must be instances of " . __NAMESPACE__ . "\\KdNode");
-            }
-
-            $n->setSplit($split);
-        }, $nodes);
-
         if (count($nodes) === 1) {
             $node = $nodes[0];
-            $node->setSplit(0);
             return $nodes[0];
         }
 
-        usort($nodes, function($a, $b) use ($split) {
-            $ap = $a->getPoint();
-            $bp = $b->getPoint();
+        $nodes = $this->sortByDimension($nodes, $split);
 
-            if ($ap[$split] == $bp[$split]) return 0;
-            return ($ap[$split] > $bp[$split]) ? 1 : -1;
-        });
-
-        $medianIndex = $this->findMedian($nodes);
+        $medianIndex = $this->findMedian($nodes, $split);
         $leftNodes = array_slice($nodes, 0, $medianIndex);
         $rightNodes = array_slice($nodes, $medianIndex + 1);
 
@@ -80,6 +77,24 @@ class KdTree {
         $medianNode->setLeft($this->buildTree($newSplit, $leftNodes));
         $medianNode->setRight($this->buildTree($newSplit, $rightNodes));
         return $medianNode;
+    }
+
+    protected function sortByDimension($nodes, $dimension)
+    {
+        echo "Sorting by {$dimension}\n";
+        $t = microtime(true);
+        $vals = array_map(function($n) use ($dimension) {
+            return $n->getPoint()[$dimension];
+        }, $nodes);
+
+        asort($vals);
+        $sortedNodes = array_map(function($v) use ($nodes) {
+            return $nodes[$v];
+        }, array_keys($vals));
+
+        echo "Time: ", microtime(true) - $t, "\n";
+        echo "Done\n";
+        return $sortedNodes;
     }
 
     /**
@@ -160,21 +175,20 @@ class KdTree {
 
     /**
      * @param array $nodes
+     * @param int $dimension
      * @return int
      */
-    protected function findMedian(array $nodes)
+    protected function findMedian(array $nodes, $dimension)
     {
         $nodeCount = count($nodes);
-        $medianIndex = floor($nodeCount / 2);
+        $medianIndex = (int) floor($nodeCount / 2);
 
-        /*
         for ($i = $medianIndex; $i < $nodeCount - 1; $i++) {
-            $x = $nodes[$i]->getPoint()[0];
-            if ($nodes[$i + 1]->getPoint()[0] == $x) {
+            $p = $nodes[$i]->getPoint()[$dimension];
+            if ($nodes[$i + 1]->getPoint()[$dimension] === $p) {
                 $medianIndex++;
             }
         }
-        */
 
         return $medianIndex;
     }
