@@ -1,0 +1,6508 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-05-10T19:02:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/26401424",
+      "properties": {
+        "@id": "node/26401424",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3243481,
+          55.875893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29064550",
+      "properties": {
+        "@id": "node/29064550",
+        "amenity": "pub",
+        "name": "The Craig Dhu",
+        "postal_code": "PA2 6DA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4255945,
+          55.8387562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29553508",
+      "properties": {
+        "@id": "node/29553508",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10f",
+        "name": "The_Afton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.424502,
+          55.841306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29553509",
+      "properties": {
+        "@id": "node/29553509",
+        "amenity": "pub",
+        "name": "Soho",
+        "postal_code": "PA1 1YD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4254676,
+          55.843272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29553512",
+      "properties": {
+        "@id": "node/29553512",
+        "amenity": "pub",
+        "name": "The Last Post",
+        "operator": "JD Wetherspoon",
+        "postal_code": "PA1 1BN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.42465,
+          55.8466392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/33952894",
+      "properties": {
+        "@id": "node/33952894",
+        "amenity": "pub",
+        "name": "Carbeth Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3669014,
+          55.9822706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/199663310",
+      "properties": {
+        "@id": "node/199663310",
+        "amenity": "pub",
+        "name": "The Old Schoolhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2785728,
+          55.8722551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/199756262",
+      "properties": {
+        "@id": "node/199756262",
+        "amenity": "pub",
+        "created_by": "JOSM",
+        "name": "The White Cart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2604041,
+          55.7799243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/244318870",
+      "properties": {
+        "@id": "node/244318870",
+        "amenity": "pub",
+        "created_by": "JOSM",
+        "name": "Lord Lounsdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4446542,
+          55.8364016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/247937950",
+      "properties": {
+        "@id": "node/247937950",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10",
+        "name": "The Counting House",
+        "operator": "J D Wetherspoon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2517336,
+          55.8610412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/248102331",
+      "properties": {
+        "@id": "node/248102331",
+        "addr:housename": "Templeton Building",
+        "addr:postcode": "G40 1AW",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "WEST Beer",
+        "website": "http://westbeer.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2338811,
+          55.8509199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/249915842",
+      "properties": {
+        "@id": "node/249915842",
+        "addr:city": "Coatbridge",
+        "addr:country": "GB",
+        "addr:postcode": "ML5",
+        "addr:street": "Bank Street",
+        "amenity": "pub",
+        "brewery": "guinness",
+        "is_in": "North Lanarkshire",
+        "name": "Olde Eagle Inn",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0468927,
+          55.8558009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/252134318",
+      "properties": {
+        "@id": "node/252134318",
+        "addr:city": "Coatbridge",
+        "addr:housenumber": "179",
+        "addr:street": "Bank Street",
+        "amenity": "pub",
+        "name": "The Westend",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.039775,
+          55.8587255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253313962",
+      "properties": {
+        "@id": "node/253313962",
+        "amenity": "pub",
+        "name": "Kirkshaws Club",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0430649,
+          55.8471069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253325962",
+      "properties": {
+        "@id": "node/253325962",
+        "addr:city": "Coatbridge",
+        "addr:country": "GB",
+        "addr:housenumber": "110",
+        "addr:postcode": "ML5",
+        "addr:street": "Dundyvan Road",
+        "amenity": "pub",
+        "name": "Banks Social Club",
+        "postal_code": "ML5",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0342836,
+          55.8565004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262623094",
+      "properties": {
+        "@id": "node/262623094",
+        "addr:housenumber": "2",
+        "addr:street": "Barrowfield Street",
+        "amenity": "pub",
+        "internet_access": "no",
+        "is_in": "Coatbridge,  North Lanarkshire, Scotland, UK",
+        "name": "4 Aces",
+        "postal_code": "ML5",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0290587,
+          55.8541778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262623184",
+      "properties": {
+        "@id": "node/262623184",
+        "addr:city": "Coatbridge",
+        "addr:country": "GB",
+        "addr:postcode": "ML5",
+        "addr:street": "Whifflet Street",
+        "amenity": "pub",
+        "is_in": "Coatbridge,  North Lanarkshire, Scotland, UK",
+        "name": "The Forge",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.020025,
+          55.853663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262623233",
+      "properties": {
+        "@id": "node/262623233",
+        "addr:city": "Coatbridge",
+        "addr:country": "GB",
+        "addr:postcode": "ML5",
+        "addr:street": "Whifflet Street",
+        "amenity": "pub",
+        "is_in": "Coatbridge,  North Lanarkshire, Scotland, UK",
+        "name": "Carsons",
+        "note": "Was called Auld house",
+        "source": "survey",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0205754,
+          55.8537182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262623273",
+      "properties": {
+        "@id": "node/262623273",
+        "addr:city": "Coatbridge",
+        "addr:country": "GB",
+        "addr:postcode": "ML5",
+        "addr:street": "Whifflet Street",
+        "amenity": "pub",
+        "is_in": "Coatbridge,  North Lanarkshire, Scotland, UK",
+        "name": "Whifflet Arms",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0205522,
+          55.8521683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269358406",
+      "properties": {
+        "@id": "node/269358406",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.9c",
+        "name": "The Pines",
+        "postal_code": "G52 3NF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3650931,
+          55.8401528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269520719",
+      "properties": {
+        "@id": "node/269520719",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.9c",
+        "name": "College Bar",
+        "postal_code": "PA1 2DQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4278097,
+          55.8452084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269875665",
+      "properties": {
+        "@id": "node/269875665",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.9c",
+        "name": "Abbey Inn",
+        "postal_code": "PA2 7JF",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4024864,
+          55.8330979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269914846",
+      "properties": {
+        "@id": "node/269914846",
+        "amenity": "pub",
+        "name": "Cross Stobs Inn",
+        "postal_code": "G78 1NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4001957,
+          55.810904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269915544",
+      "properties": {
+        "@id": "node/269915544",
+        "amenity": "pub",
+        "name": "Suburbia",
+        "postal_code": "PA1 1YD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4251162,
+          55.8433127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/275202318",
+      "properties": {
+        "@id": "node/275202318",
+        "amenity": "pub",
+        "name": "Òran Mór"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2900172,
+          55.8776501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/275202787",
+      "properties": {
+        "@id": "node/275202787",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2825732,
+          55.8757366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/275219320",
+      "properties": {
+        "@id": "node/275219320",
+        "amenity": "pub",
+        "name": "Munros",
+        "note": "Formerly Captains Rest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2728937,
+          55.8723602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/275221449",
+      "properties": {
+        "@id": "node/275221449",
+        "amenity": "pub",
+        "name": "Atholl Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2551176,
+          55.8653235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/275221493",
+      "properties": {
+        "@id": "node/275221493",
+        "amenity": "pub",
+        "name": "Toby Jug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2590286,
+          55.8604883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/275224778",
+      "properties": {
+        "@id": "node/275224778",
+        "amenity": "pub",
+        "name": "Park Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2593589,
+          55.8592729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/275225213",
+      "properties": {
+        "@id": "node/275225213",
+        "amenity": "pub",
+        "fixme": "not correct location. Still open?",
+        "name": "Denholms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2594443,
+          55.8589639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/275225265",
+      "properties": {
+        "@id": "node/275225265",
+        "amenity": "pub",
+        "name": "The Sir John Moore",
+        "operator": "Wetherspoons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2599323,
+          55.8588046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/275226023",
+      "properties": {
+        "@id": "node/275226023",
+        "amenity": "pub",
+        "name": "Grant Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2573451,
+          55.8585166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/275226874",
+      "properties": {
+        "@id": "node/275226874",
+        "amenity": "pub",
+        "name": "The Scotia Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2505028,
+          55.8551535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279139920",
+      "properties": {
+        "@id": "node/279139920",
+        "amenity": "pub",
+        "name": "Lock 27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3199659,
+          55.8949468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/280204094",
+      "properties": {
+        "@id": "node/280204094",
+        "amenity": "pub",
+        "cuisine": "vegan",
+        "diet:vegan": "only",
+        "food": "yes",
+        "name": "Stereo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2580261,
+          55.8611339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/280205205",
+      "properties": {
+        "@id": "node/280205205",
+        "addr:housenumber": "50 - 60",
+        "addr:postcode": "G1 5QT",
+        "addr:street": "King Street",
+        "amenity": "pub",
+        "cuisine": "vegetarian",
+        "diet:vegetarian": "only",
+        "food": "yes",
+        "name": "13th Note Cafe",
+        "website": "http://www.13thnote.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2469535,
+          55.8560595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/280205247",
+      "properties": {
+        "@id": "node/280205247",
+        "amenity": "pub",
+        "name": "The Doublet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2793918,
+          55.8730739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/280207087",
+      "properties": {
+        "@id": "node/280207087",
+        "amenity": "pub",
+        "cuisine": "pizza",
+        "name": "Republic Bier Halle",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2547902,
+          55.8602836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/280495752",
+      "properties": {
+        "@id": "node/280495752",
+        "amenity": "pub",
+        "name": "Barhill pub",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0831191,
+          55.9569176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281706640",
+      "properties": {
+        "@id": "node/281706640",
+        "amenity": "pub",
+        "name": "Chatelherault Inn",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0112814,
+          55.7683996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282062914",
+      "properties": {
+        "@id": "node/282062914",
+        "addr:country": "GB",
+        "addr:postcode": "ML6",
+        "addr:street": "Deedes Street",
+        "amenity": "pub",
+        "is_in": "Airdrie, North Lanarkshire, Scotland, UK",
+        "name": "Horseshoe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0027539,
+          55.8616145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282197427",
+      "properties": {
+        "@id": "node/282197427",
+        "amenity": "pub",
+        "name": "Bonnie Prince Charlie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1518556,
+          55.763934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/286043117",
+      "properties": {
+        "@id": "node/286043117",
+        "amenity": "pub",
+        "is_in": "Bargeddie, North Lanarkshire, Scotland, UK",
+        "name": "McGills",
+        "postal_code": "G69",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0793102,
+          55.8568165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/286043160",
+      "properties": {
+        "@id": "node/286043160",
+        "amenity": "pub",
+        "brewery": "guinness;1664",
+        "name": "The Woodside",
+        "postal_code": "ML5 5",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0481617,
+          55.8518846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297176905",
+      "properties": {
+        "@id": "node/297176905",
+        "amenity": "pub",
+        "name": "Crow Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4253522,
+          55.8430416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297331633",
+      "properties": {
+        "@id": "node/297331633",
+        "addr:city": "Coatbridge",
+        "addr:country": "GB",
+        "addr:postcode": "ML5",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "internet_access": "no",
+        "is_in": "Coatbridge, North Lanarkshire, Scotland, UK",
+        "name": "Argyle Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0248454,
+          55.8623271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297332051",
+      "properties": {
+        "@id": "node/297332051",
+        "addr:city": "Coatbridge",
+        "addr:country": "GB",
+        "addr:postcode": "ML5",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "internet_access": "yes",
+        "is_in": "Coatbridge, North Lanarkshire, Scotland, UK",
+        "name": "The Vulcan",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0223622,
+          55.8616521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300530663",
+      "properties": {
+        "@id": "node/300530663",
+        "addr:housenumber": "2493",
+        "amenity": "pub",
+        "name": "The Station Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3833141,
+          55.890061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300530664",
+      "properties": {
+        "@id": "node/300530664",
+        "amenity": "pub",
+        "name": "The Lovat Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3854574,
+          55.8910649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300530682",
+      "properties": {
+        "@id": "node/300530682",
+        "amenity": "pub",
+        "name": "The Anchorage Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.378406,
+          55.8882491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/307532691",
+      "properties": {
+        "@id": "node/307532691",
+        "addr:street": "Gartsherrie Road",
+        "amenity": "pub",
+        "is_in": "Coatbridge,  North Lanarkshire, Scotland, UK",
+        "name": "La Ronde",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0438441,
+          55.8689481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/308056943",
+      "properties": {
+        "@id": "node/308056943",
+        "amenity": "pub",
+        "name": "The Three Judges"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2993696,
+          55.87033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/308829596",
+      "properties": {
+        "@id": "node/308829596",
+        "addr:city": "Coatbridge",
+        "addr:housenumber": "260",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10f",
+        "is_in": "Coatbridge, North Lanarkshire, Scotland, UK",
+        "name": "Owens Bar",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0064874,
+          55.8601348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/319093878",
+      "properties": {
+        "@id": "node/319093878",
+        "addr:city": "Coatbridge",
+        "addr:postcode": "ML5",
+        "addr:street": "Bank Street",
+        "amenity": "pub",
+        "name": "Sharks Mouth",
+        "source": "survey",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0307171,
+          55.8618062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322342821",
+      "properties": {
+        "@id": "node/322342821",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "The Esquire House",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.321738,
+          55.888413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/323166627",
+      "properties": {
+        "@id": "node/323166627",
+        "addr:city": "Coatbridge",
+        "addr:country": "GB",
+        "addr:postcode": "ML5",
+        "addr:street": "Dundyvan Road",
+        "amenity": "pub",
+        "is_in": "Coatbridge,  North Lanarkshire, Scotland, UK",
+        "name": "Clock Bar",
+        "postal_code": "ML5",
+        "source": "survey",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0328163,
+          55.8561728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/347505012",
+      "properties": {
+        "@id": "node/347505012",
+        "amenity": "pub",
+        "name": "Jack Snipe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.991256,
+          55.9398948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/359090656",
+      "properties": {
+        "@id": "node/359090656",
+        "amenity": "pub",
+        "name": "The Kingfisher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0010397,
+          55.9461854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/360828040",
+      "properties": {
+        "@id": "node/360828040",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.271377,
+          55.8276813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/360927687",
+      "properties": {
+        "@id": "node/360927687",
+        "addr:city": "Coatbridge",
+        "addr:country": "GB",
+        "addr:postcode": "ML5",
+        "addr:street": "Whifflet Street",
+        "amenity": "pub",
+        "is_in": "Coatbridge,  North Lanarkshire, Scotland, UK",
+        "name": "The Craigdhu",
+        "source": "survey",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0207988,
+          55.853558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/369680459",
+      "properties": {
+        "@id": "node/369680459",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10f",
+        "name": "The Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2706562,
+          55.8101522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/370051461",
+      "properties": {
+        "@id": "node/370051461",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10f",
+        "name": "Beechings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2626893,
+          55.8167535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/371094435",
+      "properties": {
+        "@id": "node/371094435",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "The Clockwork Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2586922,
+          55.8232301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415947727",
+      "properties": {
+        "@id": "node/415947727",
+        "amenity": "pub",
+        "name": "Whiski Kraft",
+        "note": "Formerly The Avalon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2725439,
+          55.8645463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437522468",
+      "properties": {
+        "@id": "node/437522468",
+        "amenity": "pub",
+        "name": "The Wee Chip"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2930848,
+          55.8748703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437522485",
+      "properties": {
+        "@id": "node/437522485",
+        "amenity": "pub",
+        "name": "Jinty McGinty's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2927271,
+          55.8747732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/440903841",
+      "properties": {
+        "@id": "node/440903841",
+        "amenity": "pub",
+        "name": "Salmon Leap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1574081,
+          55.7729102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/442581891",
+      "properties": {
+        "@id": "node/442581891",
+        "amenity": "pub",
+        "name": "Calderwood_Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1631414,
+          55.7679553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/444514099",
+      "properties": {
+        "@id": "node/444514099",
+        "amenity": "pub",
+        "name": "Camphill Vaults"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0662081,
+          55.8019208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/444926205",
+      "properties": {
+        "@id": "node/444926205",
+        "amenity": "pub",
+        "name": "Montgomerie Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1758878,
+          55.7649848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/447587859",
+      "properties": {
+        "@id": "node/447587859",
+        "amenity": "pub",
+        "name": "Crooked Lum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1707449,
+          55.757842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448896601",
+      "properties": {
+        "@id": "node/448896601",
+        "amenity": "pub",
+        "name": "1901 Bar & Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2956065,
+          55.827593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/449094695",
+      "properties": {
+        "@id": "node/449094695",
+        "amenity": "pub",
+        "name": "The Greenhills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2061679,
+          55.7451175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/449094699",
+      "properties": {
+        "@id": "node/449094699",
+        "amenity": "pub",
+        "name": "Stroud Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1806279,
+          55.7503456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/449094705",
+      "properties": {
+        "@id": "node/449094705",
+        "amenity": "pub",
+        "name": "Eglinton Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2737371,
+          55.7404803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452494199",
+      "properties": {
+        "@id": "node/452494199",
+        "addr:city": "Glenboig",
+        "addr:country": "GB",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "name": "Big Shop Bar",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0455647,
+          55.893551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452495379",
+      "properties": {
+        "@id": "node/452495379",
+        "amenity": "pub",
+        "name": "Village Inn(closed)",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0477332,
+          55.8931527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/462706062",
+      "properties": {
+        "@id": "node/462706062",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0484594,
+          55.755856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/471324647",
+      "properties": {
+        "@id": "node/471324647",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3759478,
+          55.9023738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/475345684",
+      "properties": {
+        "@id": "node/475345684",
+        "amenity": "pub",
+        "name": "New Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1567314,
+          55.7448918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/484346983",
+      "properties": {
+        "@id": "node/484346983",
+        "amenity": "pub",
+        "name": "Samuel Dow's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2727395,
+          55.8373962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/495949712",
+      "properties": {
+        "@id": "node/495949712",
+        "amenity": "pub",
+        "name": "The Bay Horse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0464085,
+          55.7817659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/503792499",
+      "properties": {
+        "@id": "node/503792499",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3452985,
+          55.8457028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/527335865",
+      "properties": {
+        "@id": "node/527335865",
+        "amenity": "pub",
+        "name": "The Silver Tassie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4998866,
+          55.8345345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/527335866",
+      "properties": {
+        "@id": "node/527335866",
+        "amenity": "pub",
+        "name": "The Thorn Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4979812,
+          55.8340815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529924024",
+      "properties": {
+        "@id": "node/529924024",
+        "amenity": "pub",
+        "name": "Harvies Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4045304,
+          55.8466156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529924220",
+      "properties": {
+        "@id": "node/529924220",
+        "amenity": "pub",
+        "name": "Burgh Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4071162,
+          55.8466487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/534733938",
+      "properties": {
+        "@id": "node/534733938",
+        "amenity": "pub",
+        "name": "Drum and Monkey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2564904,
+          55.8613702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539549617",
+      "properties": {
+        "@id": "node/539549617",
+        "amenity": "pub",
+        "diet:gluten_free": "yes",
+        "name": "Angels",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.083923,
+          55.8227455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540625988",
+      "properties": {
+        "@id": "node/540625988",
+        "amenity": "pub",
+        "name": "Retrospect"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2573148,
+          55.8638433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540626704",
+      "properties": {
+        "@id": "node/540626704",
+        "amenity": "pub",
+        "name": "Driftwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2706848,
+          55.8664372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540627284",
+      "properties": {
+        "@id": "node/540627284",
+        "amenity": "pub",
+        "name": "The Drover"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.227537,
+          55.855665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540628855",
+      "properties": {
+        "@id": "node/540628855",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "4-5",
+        "addr:postcode": "G2 1DR",
+        "addr:street": "West George Street",
+        "amenity": "pub",
+        "name": "Camperdown Place",
+        "operator": "JD Weatherspoon",
+        "phone": "01413316600",
+        "website": "http://www.jdwetherspoon.co.uk/home/pubs/camperdown-place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2515004,
+          55.861863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540629544",
+      "properties": {
+        "@id": "node/540629544",
+        "amenity": "pub",
+        "name": "The Hogs Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2520427,
+          55.8619199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540629855",
+      "properties": {
+        "@id": "node/540629855",
+        "amenity": "pub",
+        "name": "The Attick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2516785,
+          55.8630459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/552387213",
+      "properties": {
+        "@id": "node/552387213",
+        "amenity": "pub",
+        "name": "The Anvil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0815067,
+          55.8186592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/552387355",
+      "properties": {
+        "@id": "node/552387355",
+        "amenity": "pub",
+        "name": "The Rowan Tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0809917,
+          55.8197873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571600475",
+      "properties": {
+        "@id": "node/571600475",
+        "amenity": "pub",
+        "name": "The Wellington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.42516,
+          55.839273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571601197",
+      "properties": {
+        "@id": "node/571601197",
+        "amenity": "pub",
+        "name": "Cafe Borgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4251215,
+          55.8440762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571601852",
+      "properties": {
+        "@id": "node/571601852",
+        "amenity": "pub",
+        "name": "Cafuffals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.425626,
+          55.844243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571602914",
+      "properties": {
+        "@id": "node/571602914",
+        "amenity": "pub",
+        "name": "Kilty Kilty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.426098,
+          55.8443163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571603481",
+      "properties": {
+        "@id": "node/571603481",
+        "amenity": "pub",
+        "name": "Paddy Malarky's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4262327,
+          55.8446175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571603843",
+      "properties": {
+        "@id": "node/571603843",
+        "amenity": "pub",
+        "name": "The Bull Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.426296,
+          55.8446688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/573902134",
+      "properties": {
+        "@id": "node/573902134",
+        "amenity": "pub",
+        "name": "Press Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2438744,
+          55.8602635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/573902136",
+      "properties": {
+        "@id": "node/573902136",
+        "amenity": "pub",
+        "name": "Auctioneers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2525118,
+          55.8607647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/573902141",
+      "properties": {
+        "@id": "node/573902141",
+        "amenity": "pub",
+        "name": "Failte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2560087,
+          55.8613292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/573902152",
+      "properties": {
+        "@id": "node/573902152",
+        "amenity": "pub",
+        "name": "Briggs Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2297767,
+          55.9019196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/573902165",
+      "properties": {
+        "@id": "node/573902165",
+        "amenity": "pub",
+        "name": "Blackfriars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2447477,
+          55.8579299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/573902171",
+      "properties": {
+        "@id": "node/573902171",
+        "amenity": "pub",
+        "name": "O'Neills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2446583,
+          55.8581615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/573902178",
+      "properties": {
+        "@id": "node/573902178",
+        "amenity": "pub",
+        "name": "Babbity Bowster",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2427967,
+          55.8585652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/573902216",
+      "properties": {
+        "@id": "node/573902216",
+        "amenity": "pub",
+        "name": "Crow Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2257593,
+          55.9036826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/576330488",
+      "properties": {
+        "@id": "node/576330488",
+        "amenity": "pub",
+        "is_in": "Coatbridge,  North Lanarkshire, Scotland, UK",
+        "name": "The Corner Room",
+        "source": "survey",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0231095,
+          55.8533872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/576334127",
+      "properties": {
+        "@id": "node/576334127",
+        "addr:city": "Coatbridge",
+        "addr:postcode": "ML5",
+        "addr:street": "Sunnyside Road",
+        "amenity": "pub",
+        "name": "The Heritage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0299168,
+          55.8632836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/576335157",
+      "properties": {
+        "@id": "node/576335157",
+        "addr:city": "Coatbridge",
+        "addr:postcode": "ML5",
+        "addr:street": "Sunnyside Road",
+        "amenity": "pub",
+        "name": "Shunters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0294053,
+          55.8626435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/581328286",
+      "properties": {
+        "@id": "node/581328286",
+        "addr:city": "Coatbridge",
+        "addr:postcode": "ML5",
+        "addr:street": "Sunnyside Road",
+        "amenity": "pub",
+        "name": "Fountain Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.029577,
+          55.862782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/581329018",
+      "properties": {
+        "@id": "node/581329018",
+        "addr:city": "Coatbridge",
+        "addr:postcode": "ML5",
+        "addr:street": "Sunnyside Road",
+        "amenity": "pub",
+        "name": "Segton Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0298345,
+          55.8631372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/581330386",
+      "properties": {
+        "@id": "node/581330386",
+        "addr:city": "Coatbridge",
+        "addr:postcode": "ML5",
+        "addr:street": "Sunnyside Road",
+        "amenity": "pub",
+        "name": "St Andrews Bar",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.029771,
+          55.863902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/581335120",
+      "properties": {
+        "@id": "node/581335120",
+        "amenity": "pub",
+        "name": "Tassian",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0233579,
+          55.8678307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/581338122",
+      "properties": {
+        "@id": "node/581338122",
+        "addr:city": "Coatbridge",
+        "addr:country": "GB",
+        "addr:postcode": "ML5",
+        "addr:street": "Academy Street",
+        "amenity": "pub",
+        "name": "The Mint",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.027731,
+          55.8631768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/582864026",
+      "properties": {
+        "@id": "node/582864026",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "57",
+        "addr:postcode": "G1 1HL",
+        "addr:street": "Cochrane Street",
+        "amenity": "pub",
+        "name": "The Piper on the square",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2490045,
+          55.8604699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/583587836",
+      "properties": {
+        "@id": "node/583587836",
+        "amenity": "pub",
+        "name": "The Tap Room",
+        "old_name": "Harvey's",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0539428,
+          55.7777832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/596751071",
+      "properties": {
+        "@id": "node/596751071",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2244502,
+          55.9044979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/597441082",
+      "properties": {
+        "@id": "node/597441082",
+        "amenity": "pub",
+        "name": "The Social"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2534106,
+          55.8599998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/599100371",
+      "properties": {
+        "@id": "node/599100371",
+        "amenity": "pub",
+        "name": "Bar West",
+        "old_name": "The Silver Tassie",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0529449,
+          55.7777651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600374108",
+      "properties": {
+        "@id": "node/600374108",
+        "amenity": "pub",
+        "name": "The Smiddy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.305498,
+          55.8706476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600374110",
+      "properties": {
+        "@id": "node/600374110",
+        "amenity": "pub",
+        "name": "The Ettrick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3059164,
+          55.8706446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600374111",
+      "properties": {
+        "@id": "node/600374111",
+        "amenity": "pub",
+        "name": "Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3067966,
+          55.8709354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600374115",
+      "properties": {
+        "@id": "node/600374115",
+        "amenity": "pub",
+        "name": "The Sparkle Horse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3003593,
+          55.8713688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600374116",
+      "properties": {
+        "@id": "node/600374116",
+        "amenity": "pub",
+        "name": "Gallus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2975697,
+          55.8701659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600374117",
+      "properties": {
+        "@id": "node/600374117",
+        "amenity": "pub",
+        "name": "Quarter Gill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3029342,
+          55.8709474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600374120",
+      "properties": {
+        "@id": "node/600374120",
+        "amenity": "pub",
+        "name": "Storm Queen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3034222,
+          55.8706366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600374123",
+      "properties": {
+        "@id": "node/600374123",
+        "amenity": "pub",
+        "name": "Bar Gumbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2979661,
+          55.8718351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600374125",
+      "properties": {
+        "@id": "node/600374125",
+        "amenity": "pub",
+        "name": "The Lismore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3015824,
+          55.8709835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600374131",
+      "properties": {
+        "@id": "node/600374131",
+        "amenity": "pub",
+        "name": "The Aragon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2965184,
+          55.873006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600374133",
+      "properties": {
+        "@id": "node/600374133",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Tennent's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2950939,
+          55.8742492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600483100",
+      "properties": {
+        "@id": "node/600483100",
+        "amenity": "pub",
+        "name": "Coopers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2825548,
+          55.8754678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600483102",
+      "properties": {
+        "@id": "node/600483102",
+        "amenity": "pub",
+        "name": "The Belle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2858164,
+          55.8764789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600483106",
+      "properties": {
+        "@id": "node/600483106",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Inn Deep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2808153,
+          55.874918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600483109",
+      "properties": {
+        "@id": "node/600483109",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "7a",
+        "addr:postcode": "G20 6NQ",
+        "addr:street": "Lansdowne Crescent",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Lansdowne Bar & Kitchen",
+        "opening_hours": "Mo-Su 12:00-24:00",
+        "operator": "Maclay Inns",
+        "website": "http://www.lansdownebar.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2766908,
+          55.8743297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600483159",
+      "properties": {
+        "@id": "node/600483159",
+        "amenity": "pub",
+        "name": "The Dolphin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3000981,
+          55.8704715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600483162",
+      "properties": {
+        "@id": "node/600483162",
+        "amenity": "pub",
+        "name": "Partick Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3006817,
+          55.8705625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600483163",
+      "properties": {
+        "@id": "node/600483163",
+        "amenity": "pub",
+        "name": "Ubiquitous Chip - The Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.292947,
+          55.8748403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600490141",
+      "properties": {
+        "@id": "node/600490141",
+        "amenity": "pub",
+        "name": "Wintersgills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2726845,
+          55.8725844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600490142",
+      "properties": {
+        "@id": "node/600490142",
+        "amenity": "pub",
+        "name": "Roxy 171",
+        "note": "Formerly Liquid Shio. Roxy 171 closed 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.272309,
+          55.872157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600576861",
+      "properties": {
+        "@id": "node/600576861",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2888901,
+          55.8668911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600576865",
+      "properties": {
+        "@id": "node/600576865",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Big Slope"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2837939,
+          55.8656088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600576871",
+      "properties": {
+        "@id": "node/600576871",
+        "amenity": "pub",
+        "name": "The Snaffle Bit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2869157,
+          55.8662154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600576876",
+      "properties": {
+        "@id": "node/600576876",
+        "amenity": "pub",
+        "name": "The Ben Nevis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.285121,
+          55.8649017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600576877",
+      "properties": {
+        "@id": "node/600576877",
+        "amenity": "pub",
+        "name": "The Park Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2872647,
+          55.8658225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600576879",
+      "properties": {
+        "@id": "node/600576879",
+        "amenity": "pub",
+        "name": "The Arlington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2742257,
+          55.8693912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600576880",
+      "properties": {
+        "@id": "node/600576880",
+        "amenity": "pub",
+        "name": "WEST on the Corner",
+        "note": "Formerly The Halt Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.275077,
+          55.8698576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/600576883",
+      "properties": {
+        "@id": "node/600576883",
+        "amenity": "pub",
+        "name": "The Carnarvon Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2704146,
+          55.8687216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/601707743",
+      "properties": {
+        "@id": "node/601707743",
+        "amenity": "pub",
+        "name": "Curler's Rest",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2932525,
+          55.8754174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/601711560",
+      "properties": {
+        "@id": "node/601711560",
+        "amenity": "pub",
+        "name": "Deoch an Dorus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.309354,
+          55.8706504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/601719378",
+      "properties": {
+        "@id": "node/601719378",
+        "amenity": "pub",
+        "name": "The Windsor Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3119327,
+          55.8706205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/601719381",
+      "properties": {
+        "@id": "node/601719381",
+        "amenity": "pub",
+        "name": "The Rosevale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3121849,
+          55.8706175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/601719384",
+      "properties": {
+        "@id": "node/601719384",
+        "amenity": "pub",
+        "name": "The Thornwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3215313,
+          55.8710838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/601719422",
+      "properties": {
+        "@id": "node/601719422",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "1256",
+        "addr:postcode": "G3 8TJ",
+        "addr:street": "Argyle Street",
+        "amenity": "pub",
+        "name": "The Islay Inn",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2889974,
+          55.8663794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/602491143",
+      "properties": {
+        "@id": "node/602491143",
+        "amenity": "pub",
+        "name": "Bannisters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2801238,
+          55.8635719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/602491144",
+      "properties": {
+        "@id": "node/602491144",
+        "amenity": "pub",
+        "name": "Lebowskis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.281764,
+          55.8641116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/602491145",
+      "properties": {
+        "@id": "node/602491145",
+        "amenity": "pub",
+        "name": "Oceana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2828972,
+          55.864462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/630748961",
+      "properties": {
+        "@id": "node/630748961",
+        "amenity": "pub",
+        "name": "Gartcosh Social Club",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0790322,
+          55.8904148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/634218661",
+      "properties": {
+        "@id": "node/634218661",
+        "amenity": "pub",
+        "name": "The Coachhouse",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0288149,
+          55.8189441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/634218948",
+      "properties": {
+        "@id": "node/634218948",
+        "addr:city": "Bellshill",
+        "addr:country": "GB",
+        "addr:housenumber": "158-162",
+        "addr:postcode": "ML4 3DN",
+        "amenity": "pub",
+        "name": "Saints n Sinners",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.026253,
+          55.818567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/645523367",
+      "properties": {
+        "@id": "node/645523367",
+        "amenity": "pub",
+        "layer": "1",
+        "name": "Central Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.258342,
+          55.860209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/645523370",
+      "properties": {
+        "@id": "node/645523370",
+        "amenity": "pub",
+        "layer": "1",
+        "name": "Bonapartes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2583328,
+          55.8598696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/648113525",
+      "properties": {
+        "@id": "node/648113525",
+        "amenity": "pub",
+        "internet_access": "no",
+        "name": "The Columba Club",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0249125,
+          55.8625574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/663406505",
+      "properties": {
+        "@id": "node/663406505",
+        "addr:city": "Coatbridge",
+        "addr:country": "GB",
+        "addr:postcode": "ML5",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "name": "Peters Bar",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0042452,
+          55.8611328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/663417722",
+      "properties": {
+        "@id": "node/663417722",
+        "amenity": "pub",
+        "name": "Wilson Arms",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9887801,
+          55.8665233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/665399656",
+      "properties": {
+        "@id": "node/665399656",
+        "amenity": "pub",
+        "name": "The Grove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2839139,
+          55.8649821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/687132263",
+      "properties": {
+        "@id": "node/687132263",
+        "amenity": "pub",
+        "name": "Millers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1589773,
+          55.8542678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/687820343",
+      "properties": {
+        "@id": "node/687820343",
+        "amenity": "pub",
+        "name": "West End Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.104437,
+          55.7989246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/687864835",
+      "properties": {
+        "@id": "node/687864835",
+        "amenity": "pub",
+        "name": "The Oak Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2001555,
+          55.8488189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/688434132",
+      "properties": {
+        "@id": "node/688434132",
+        "amenity": "pub",
+        "name": "Arthulie Inns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3975359,
+          55.7989953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/688459413",
+      "properties": {
+        "@id": "node/688459413",
+        "amenity": "pub",
+        "name": "The Flying Horse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3865782,
+          55.8018816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/688460369",
+      "properties": {
+        "@id": "node/688460369",
+        "amenity": "pub",
+        "name": "The Kelburn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3980131,
+          55.7993164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/688476369",
+      "properties": {
+        "@id": "node/688476369",
+        "amenity": "pub",
+        "name": "The Brigg Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.398208,
+          55.8032416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/705908571",
+      "properties": {
+        "@id": "node/705908571",
+        "amenity": "pub",
+        "name": "Dow's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2524652,
+          55.8622393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/721565751",
+      "properties": {
+        "@id": "node/721565751",
+        "amenity": "pub",
+        "name": "Montford House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2460206,
+          55.8265945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/721567797",
+      "properties": {
+        "@id": "node/721567797",
+        "amenity": "pub",
+        "name": "Armstrong's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2653573,
+          55.8264286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/721574247",
+      "properties": {
+        "@id": "node/721574247",
+        "amenity": "pub",
+        "name": "Bacchus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.248468,
+          55.8593885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/721574248",
+      "properties": {
+        "@id": "node/721574248",
+        "amenity": "pub",
+        "name": "Blane Valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2486074,
+          55.8591417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/721574251",
+      "properties": {
+        "@id": "node/721574251",
+        "accommodation": "yes",
+        "amenity": "pub",
+        "name": "Rab Ha's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2481005,
+          55.8591301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/721599645",
+      "properties": {
+        "@id": "node/721599645",
+        "amenity": "pub",
+        "name": "JT Rochead"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2453869,
+          55.857104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/726667833",
+      "properties": {
+        "@id": "node/726667833",
+        "amenity": "pub",
+        "name": "MacConnells"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2567587,
+          55.8666592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/726689325",
+      "properties": {
+        "@id": "node/726689325",
+        "amenity": "pub",
+        "name": "The Vale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2524866,
+          55.862149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/726727697",
+      "properties": {
+        "@id": "node/726727697",
+        "amenity": "pub",
+        "name": "Variety"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2683501,
+          55.8658591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/726747114",
+      "properties": {
+        "@id": "node/726747114",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "The Griffin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2679511,
+          55.8653591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/727305872",
+      "properties": {
+        "@id": "node/727305872",
+        "amenity": "pub",
+        "name": "Gazelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2823822,
+          55.8642994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/727305874",
+      "properties": {
+        "@id": "node/727305874",
+        "addr:housenumber": "1005",
+        "addr:postcode": "G3 8LZ",
+        "addr:street": "Argyle Street",
+        "amenity": "pub",
+        "name": "Brass Monkey",
+        "source": "local knowledge",
+        "website": "http://www.thebrassmonkeyglasgow.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2810733,
+          55.8638659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/730776614",
+      "properties": {
+        "@id": "node/730776614",
+        "amenity": "pub",
+        "name": "Websters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.424226,
+          55.8425478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/734784955",
+      "properties": {
+        "@id": "node/734784955",
+        "amenity": "pub",
+        "ele": "146.2452393",
+        "name": "Uplawmoor Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4933134,
+          55.7656127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/746515398",
+      "properties": {
+        "@id": "node/746515398",
+        "amenity": "pub",
+        "name": "Bay Horse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2772888,
+          55.8325858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/770084505",
+      "properties": {
+        "@id": "node/770084505",
+        "amenity": "pub",
+        "name": "Talbot Arms",
+        "real_ale": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3179758,
+          55.9400848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/780618075",
+      "properties": {
+        "@id": "node/780618075",
+        "amenity": "pub",
+        "name": "The Granary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2815956,
+          55.8301981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/843099592",
+      "properties": {
+        "@id": "node/843099592",
+        "amenity": "pub",
+        "name": "Bier Stube"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2832979,
+          55.8283682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/843101961",
+      "properties": {
+        "@id": "node/843101961",
+        "amenity": "pub",
+        "name": "John Stirling Maxwell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2847189,
+          55.8275808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/844492459",
+      "properties": {
+        "@id": "node/844492459",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "1039",
+        "addr:postcode": "G41 3YF",
+        "addr:street": "pollokshaws Road",
+        "amenity": "pub",
+        "name": "The Butterfly & Pig @ The Corona",
+        "opening_hours": "11AM - 9PM",
+        "smoking": "outside",
+        "website": "http://www.thebutterflyandthepig.com/south/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2788867,
+          55.8314489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/844500213",
+      "properties": {
+        "@id": "node/844500213",
+        "amenity": "pub",
+        "name": "GEORGIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2800507,
+          55.8308464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/856325531",
+      "properties": {
+        "@id": "node/856325531",
+        "amenity": "pub",
+        "name": "Framptons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2852232,
+          55.887312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/869531728",
+      "properties": {
+        "@id": "node/869531728",
+        "amenity": "pub",
+        "name": "The Auld House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.431572,
+          55.782614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/895550456",
+      "properties": {
+        "@id": "node/895550456",
+        "amenity": "pub",
+        "name": "the killoch bar",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.426657,
+          55.784459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/944233343",
+      "properties": {
+        "@id": "node/944233343",
+        "amenity": "pub",
+        "name": "Two Chimneys",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0842733,
+          55.8223003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/966667214",
+      "properties": {
+        "@id": "node/966667214",
+        "amenity": "pub",
+        "name": "The Braehead Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4283698,
+          55.8877769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1082528661",
+      "properties": {
+        "@id": "node/1082528661",
+        "amenity": "pub",
+        "name": "Horse Shoe",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0823378,
+          55.818756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1083619163",
+      "properties": {
+        "@id": "node/1083619163",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0842144,
+          55.9136259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1088748319",
+      "properties": {
+        "@id": "node/1088748319",
+        "addr:city": "Gartcosh",
+        "addr:country": "GB",
+        "addr:street": "Whitehill Terrace",
+        "amenity": "pub",
+        "name": "Chapmans Bar and Lounge",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0792769,
+          55.8845059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1100850452",
+      "properties": {
+        "@id": "node/1100850452",
+        "amenity": "pub",
+        "name": "The 78",
+        "opening_hours": "Mo-Su 10:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2867378,
+          55.8650704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1119328104",
+      "properties": {
+        "@id": "node/1119328104",
+        "amenity": "pub",
+        "name": "The Joker Bar",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0053136,
+          55.8125169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1166105545",
+      "properties": {
+        "@id": "node/1166105545",
+        "amenity": "pub",
+        "name": "Three Craws"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3271274,
+          55.8821898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1221152257",
+      "properties": {
+        "@id": "node/1221152257",
+        "amenity": "pub",
+        "name": "Carriages"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1516468,
+          55.9209956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1281635362",
+      "properties": {
+        "@id": "node/1281635362",
+        "alt_name": "The Redbrae",
+        "amenity": "pub",
+        "int_name": "The Redbrae",
+        "name": "The Redbrae",
+        "old_name": "The Redbrae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1448566,
+          55.9391129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1311975752",
+      "properties": {
+        "@id": "node/1311975752",
+        "amenity": "pub",
+        "name": "Beer Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2453865,
+          55.8586702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1311975781",
+      "properties": {
+        "@id": "node/1311975781",
+        "addr:housenumber": "219",
+        "addr:street": "High Street",
+        "amenity": "pub",
+        "name": "Old College Bar",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2404139,
+          55.8601494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1311976314",
+      "properties": {
+        "@id": "node/1311976314",
+        "amenity": "pub",
+        "name": "The Quarter Gill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2595161,
+          55.8576806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1311976443",
+      "properties": {
+        "@id": "node/1311976443",
+        "amenity": "pub",
+        "name": "The Imperial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2568824,
+          55.8570069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1312364653",
+      "properties": {
+        "@id": "node/1312364653",
+        "amenity": "pub",
+        "name": "O'Neill's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2695664,
+          55.8660457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1312930608",
+      "properties": {
+        "@id": "node/1312930608",
+        "amenity": "pub",
+        "name": "Mosslane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4326702,
+          55.8539929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315765711",
+      "properties": {
+        "@id": "node/1315765711",
+        "amenity": "pub",
+        "name": "Swan Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2028966,
+          55.9754438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1320119108",
+      "properties": {
+        "@id": "node/1320119108",
+        "amenity": "pub",
+        "name": "Tile Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4215409,
+          55.8466036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1320119109",
+      "properties": {
+        "@id": "node/1320119109",
+        "amenity": "pub",
+        "name": "Old Swan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4216106,
+          55.8469318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1322796864",
+      "properties": {
+        "@id": "node/1322796864",
+        "amenity": "pub",
+        "name": "The Goose"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2566264,
+          55.8590035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1325713077",
+      "properties": {
+        "@id": "node/1325713077",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "20-22",
+        "addr:street": "Dixon Street",
+        "amenity": "pub",
+        "name": "Hootenanny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2553985,
+          55.8566857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1328306836",
+      "properties": {
+        "@id": "node/1328306836",
+        "amenity": "pub",
+        "name": "Albion Social Club",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3749286,
+          55.8924471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1329440919",
+      "properties": {
+        "@id": "node/1329440919",
+        "amenity": "pub",
+        "name": "Solid Rock Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2593984,
+          55.8590394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1329440922",
+      "properties": {
+        "@id": "node/1329440922",
+        "amenity": "pub",
+        "name": "The Two Heided Man"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2590367,
+          55.8588966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1334464227",
+      "properties": {
+        "@id": "node/1334464227",
+        "amenity": "pub",
+        "name": "The Boundary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3870275,
+          55.8910507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1341652807",
+      "properties": {
+        "@id": "node/1341652807",
+        "amenity": "pub",
+        "name": "Douglas Arms",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0684538,
+          55.8029536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1342587552",
+      "properties": {
+        "@id": "node/1342587552",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "72a",
+        "addr:street": "Admiral Street",
+        "amenity": "pub",
+        "name": "The Admiral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2629206,
+          55.8606988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1342587734",
+      "properties": {
+        "@id": "node/1342587734",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "306",
+        "addr:street": "Argyle Street",
+        "amenity": "pub",
+        "name": "The Waterloo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2612345,
+          55.8589379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1342587754",
+      "properties": {
+        "@id": "node/1342587754",
+        "amenity": "pub",
+        "name": "The Edward G Wylie",
+        "operator": "Weatherspoon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2628799,
+          55.8613063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1349558174",
+      "properties": {
+        "@id": "node/1349558174",
+        "access": "yes",
+        "addr:city": "Coatbridge",
+        "addr:country": "GB",
+        "addr:housenumber": "93",
+        "addr:postcode": "ML5",
+        "addr:street": "Whifflet Street",
+        "amenity": "pub",
+        "building": "entrance",
+        "entrance": "yes",
+        "entrance:ramp": "no",
+        "entrance:steps": "yes",
+        "entrance:type": "door",
+        "is_in": "Coatbridge,  North Lanarkshire, Scotland, UK",
+        "name": "The Big Tree",
+        "postal_code": "ML5 4",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0204947,
+          55.8515712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1356845962",
+      "properties": {
+        "@id": "node/1356845962",
+        "amenity": "pub",
+        "name": "The Cricklewood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0644179,
+          55.7996223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1360362011",
+      "properties": {
+        "@id": "node/1360362011",
+        "amenity": "pub",
+        "name": "Peel Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2061031,
+          55.7636945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1363693233",
+      "properties": {
+        "@id": "node/1363693233",
+        "amenity": "pub",
+        "name": "Bon Accord",
+        "phone": "0141 248 4427",
+        "smoking": "no",
+        "website": "http://www.bonaccordweb.co.uk/",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2714703,
+          55.8640319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1388996043",
+      "properties": {
+        "@id": "node/1388996043",
+        "amenity": "pub",
+        "name": "The Croft Bar & Resteraunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2275765,
+          55.8153323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1432651176",
+      "properties": {
+        "@id": "node/1432651176",
+        "amenity": "pub",
+        "name": "The Treble Two"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.228995,
+          55.852209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1432652874",
+      "properties": {
+        "@id": "node/1432652874",
+        "amenity": "pub",
+        "name": "The Londoner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.23045,
+          55.850311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1432753654",
+      "properties": {
+        "@id": "node/1432753654",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "415",
+        "addr:street": "London Road",
+        "amenity": "pub",
+        "name": "Calton Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2332614,
+          55.8516756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1471287212",
+      "properties": {
+        "@id": "node/1471287212",
+        "amenity": "pub",
+        "name": "Windmill Tavern",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0778069,
+          55.8313919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1477971280",
+      "properties": {
+        "@id": "node/1477971280",
+        "amenity": "pub",
+        "name": "The Brazen Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2548428,
+          55.8480191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1495502237",
+      "properties": {
+        "@id": "node/1495502237",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "23",
+        "addr:postcode": "G3 7NG",
+        "addr:street": "Sandyford Place",
+        "amenity": "pub",
+        "name": "McPhabbs",
+        "phone": "0141 221 8176",
+        "website": "http://www.mcphabbsbar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2769797,
+          55.8657996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1495512317",
+      "properties": {
+        "@id": "node/1495512317",
+        "amenity": "pub",
+        "name": "State Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.266219,
+          55.8654556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1495513134",
+      "properties": {
+        "@id": "node/1495513134",
+        "amenity": "pub",
+        "name": "The Henglers Circus",
+        "operator": "Wetherspoons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2666642,
+          55.8656663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1496502230",
+      "properties": {
+        "@id": "node/1496502230",
+        "amenity": "pub",
+        "name": "Black Sparrow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2721287,
+          55.8660091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1505623801",
+      "properties": {
+        "@id": "node/1505623801",
+        "amenity": "pub",
+        "name": "The Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2702918,
+          55.8661017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1510555422",
+      "properties": {
+        "@id": "node/1510555422",
+        "amenity": "pub",
+        "name": "Trader's Tavern",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2377671,
+          55.8545814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1510657154",
+      "properties": {
+        "@id": "node/1510657154",
+        "amenity": "pub",
+        "name": "The Emerald"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2362523,
+          55.8554862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1524833137",
+      "properties": {
+        "@id": "node/1524833137",
+        "addr:housenumber": "18",
+        "addr:postcode": "G1 1JQ",
+        "addr:street": "John Street",
+        "amenity": "pub",
+        "name": "Committee Room No.9",
+        "website": "http://www.committeeroom9.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2475181,
+          55.8602805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1558573986",
+      "properties": {
+        "@id": "node/1558573986",
+        "amenity": "pub",
+        "name": "Brechin's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3132109,
+          55.8633144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1583118208",
+      "properties": {
+        "@id": "node/1583118208",
+        "amenity": "pub",
+        "name": "The Seven Ways"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2268014,
+          55.849429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1591219218",
+      "properties": {
+        "@id": "node/1591219218",
+        "amenity": "pub",
+        "name": "Chrystal Bell & Co"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2427429,
+          55.8565481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1600288383",
+      "properties": {
+        "@id": "node/1600288383",
+        "amenity": "pub",
+        "name": "The Alexandra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2152061,
+          55.8583367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1600288387",
+      "properties": {
+        "@id": "node/1600288387",
+        "amenity": "pub",
+        "name": "The Crown Creighton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2145438,
+          55.8582998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1600288392",
+      "properties": {
+        "@id": "node/1600288392",
+        "amenity": "pub",
+        "name": "The Duke Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2140417,
+          55.8585255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1601429525",
+      "properties": {
+        "@id": "node/1601429525",
+        "addr:housenumber": "154",
+        "addr:street": "Hope Street",
+        "amenity": "pub",
+        "name": "The Pot Still",
+        "phone": "0141 333 0980",
+        "website": "http://thepotstill.co.uk/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2577203,
+          55.8629022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1611064115",
+      "properties": {
+        "@id": "node/1611064115",
+        "amenity": "pub",
+        "name": "Black Bull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2422095,
+          55.8584101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1611064118",
+      "properties": {
+        "@id": "node/1611064118",
+        "amenity": "pub",
+        "name": "Cabin Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2362237,
+          55.8552418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1611064121",
+      "properties": {
+        "@id": "node/1611064121",
+        "amenity": "pub",
+        "name": "Eastenders"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2358533,
+          55.8554787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1611064137",
+      "properties": {
+        "@id": "node/1611064137",
+        "addr:housenumber": "374",
+        "addr:postcode": "G4 0TX",
+        "addr:street": "Gallowgate",
+        "amenity": "pub",
+        "name": "Hielan Jessie",
+        "phone": "0141 552 0753",
+        "website": "http://www.hielanjessie.co.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2331642,
+          55.8555758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1611064155",
+      "properties": {
+        "@id": "node/1611064155",
+        "amenity": "pub",
+        "name": "Wee Mans Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.228301,
+          55.8557905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1612222937",
+      "properties": {
+        "@id": "node/1612222937",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "46",
+        "addr:street": "St Enoch Square",
+        "amenity": "pub",
+        "name": "Times Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2557835,
+          55.85721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1628633040",
+      "properties": {
+        "@id": "node/1628633040",
+        "amenity": "pub",
+        "name": "John Barras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2487755,
+          55.8234624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1637944127",
+      "properties": {
+        "@id": "node/1637944127",
+        "amenity": "pub",
+        "name": "Mills Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2184718,
+          55.8583384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1637944173",
+      "properties": {
+        "@id": "node/1637944173",
+        "amenity": "pub",
+        "name": "The Snug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2173829,
+          55.8583708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1657806729",
+      "properties": {
+        "@id": "node/1657806729",
+        "amenity": "pub",
+        "name": "The Cottage Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1746645,
+          55.8521175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1657806736",
+      "properties": {
+        "@id": "node/1657806736",
+        "amenity": "pub",
+        "name": "The Drum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.168702,
+          55.8518104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1678685876",
+      "properties": {
+        "@id": "node/1678685876",
+        "amenity": "pub",
+        "name": "the travellers rest",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4219221,
+          55.7868932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1689078175",
+      "properties": {
+        "@id": "node/1689078175",
+        "amenity": "pub",
+        "name": "Victoria Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2650434,
+          55.8365934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1689096860",
+      "properties": {
+        "@id": "node/1689096860",
+        "amenity": "pub",
+        "name": "Pandora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2641634,
+          55.8378949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1689148014",
+      "properties": {
+        "@id": "node/1689148014",
+        "amenity": "pub",
+        "name": "Penny Farthing",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2570773,
+          55.8360421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1689148463",
+      "properties": {
+        "@id": "node/1689148463",
+        "amenity": "pub",
+        "name": "Neeson's",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2632893,
+          55.8364518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1689148715",
+      "properties": {
+        "@id": "node/1689148715",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2640993,
+          55.8353552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1689151655",
+      "properties": {
+        "@id": "node/1689151655",
+        "amenity": "pub",
+        "name": "Queens Park Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2660144,
+          55.834108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1704366946",
+      "properties": {
+        "@id": "node/1704366946",
+        "amenity": "pub",
+        "name": "Whitehills Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1848975,
+          55.7471075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1705394897",
+      "properties": {
+        "@id": "node/1705394897",
+        "amenity": "pub",
+        "name": "Village Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1741367,
+          55.7654475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1707003046",
+      "properties": {
+        "@id": "node/1707003046",
+        "amenity": "pub",
+        "name": "London Road Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2023605,
+          55.8479177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1712796473",
+      "properties": {
+        "@id": "node/1712796473",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4327925,
+          55.8424918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1716213629",
+      "properties": {
+        "@id": "node/1716213629",
+        "amenity": "pub",
+        "name": "Westwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2007768,
+          55.7571657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1716230837",
+      "properties": {
+        "@id": "node/1716230837",
+        "amenity": "pub",
+        "name": "Maxwell rd."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2626495,
+          55.843191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1716230845",
+      "properties": {
+        "@id": "node/1716230845",
+        "amenity": "pub",
+        "name": "The Depot",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2634787,
+          55.8410862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1716230849",
+      "properties": {
+        "@id": "node/1716230849",
+        "amenity": "pub",
+        "name": "The Star Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2620416,
+          55.843468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1716530020",
+      "properties": {
+        "@id": "node/1716530020",
+        "amenity": "pub",
+        "name": "Strathduie Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2426007,
+          55.8583422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719513301",
+      "properties": {
+        "@id": "node/1719513301",
+        "amenity": "pub",
+        "name": "Kiloran Bar",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2602149,
+          55.8485952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719519908",
+      "properties": {
+        "@id": "node/1719519908",
+        "amenity": "pub",
+        "name": "The Sou'Wester Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2588819,
+          55.8534824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719522001",
+      "properties": {
+        "@id": "node/1719522001",
+        "amenity": "pub",
+        "name": "The Laurieston",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2591099,
+          55.8528863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742524434",
+      "properties": {
+        "@id": "node/1742524434",
+        "amenity": "pub",
+        "name": "Legends"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1757423,
+          55.7652354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742945917",
+      "properties": {
+        "@id": "node/1742945917",
+        "amenity": "pub",
+        "name": "Kilbryde Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1377704,
+          55.7751985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1751724253",
+      "properties": {
+        "@id": "node/1751724253",
+        "amenity": "pub",
+        "name": "Tower Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1779269,
+          55.7602242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1776219960",
+      "properties": {
+        "@id": "node/1776219960",
+        "amenity": "pub",
+        "name": "Caledonian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2371548,
+          55.874037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1776219961",
+      "properties": {
+        "@id": "node/1776219961",
+        "amenity": "pub",
+        "name": "Springpark Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2475856,
+          55.8766204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1829822894",
+      "properties": {
+        "@id": "node/1829822894",
+        "amenity": "pub",
+        "name": "Condorrat Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0273851,
+          55.9359468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1829823538",
+      "properties": {
+        "@id": "node/1829823538",
+        "amenity": "pub",
+        "name": "Mollinsburn Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0540581,
+          55.920999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1860475785",
+      "properties": {
+        "@id": "node/1860475785",
+        "amenity": "pub",
+        "name": "Carrigan's",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1058906,
+          55.7850923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1860477893",
+      "properties": {
+        "@id": "node/1860477893",
+        "amenity": "pub",
+        "name": "Hoolet's Nest",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1076796,
+          55.7924064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1901086866",
+      "properties": {
+        "@id": "node/1901086866",
+        "amenity": "pub",
+        "name": "Strathspey Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1713209,
+          55.8432434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1901131254",
+      "properties": {
+        "@id": "node/1901131254",
+        "amenity": "pub",
+        "name": "Celtic Social Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1946272,
+          55.8446806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1915765552",
+      "properties": {
+        "@id": "node/1915765552",
+        "amenity": "pub",
+        "name": "Stonehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0353671,
+          55.7764321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1917780223",
+      "properties": {
+        "@id": "node/1917780223",
+        "addr:housenumber": "1397 ",
+        "addr:postcode": "G3 8AN",
+        "addr:street": "Argyle Street",
+        "amenity": "pub",
+        "name": "BrewDog",
+        "website": "http://www.brewdog.com/bars/glasgow",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2921693,
+          55.8682059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1924947407",
+      "properties": {
+        "@id": "node/1924947407",
+        "amenity": "pub",
+        "name": "The Talisman",
+        "status": "closed (derelict)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2307344,
+          55.8889737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1930971780",
+      "properties": {
+        "@id": "node/1930971780",
+        "amenity": "pub",
+        "name": "Ranza Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1952588,
+          55.8787437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1938191540",
+      "properties": {
+        "@id": "node/1938191540",
+        "amenity": "pub",
+        "name": "The Stewart Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1385793,
+          55.8894859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1938191541",
+      "properties": {
+        "@id": "node/1938191541",
+        "amenity": "pub",
+        "name": "The Wee Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1387818,
+          55.8895395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1938584019",
+      "properties": {
+        "@id": "node/1938584019",
+        "amenity": "pub",
+        "name": "Flying Duck",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.254518,
+          55.8654138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1951238722",
+      "properties": {
+        "@id": "node/1951238722",
+        "amenity": "pub",
+        "name": "The Castle",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0823995,
+          55.818336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1957091919",
+      "properties": {
+        "@id": "node/1957091919",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2506141,
+          55.8586745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1975871169",
+      "properties": {
+        "@id": "node/1975871169",
+        "amenity": "pub",
+        "name": "The GoldenHill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4045312,
+          55.9248923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1975872855",
+      "properties": {
+        "@id": "node/1975872855",
+        "amenity": "pub",
+        "name": "The Dublet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4021226,
+          55.9276874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1989661670",
+      "properties": {
+        "@id": "node/1989661670",
+        "addr:housenumber": "153",
+        "addr:postcode": "G69 6AF",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "name": "Rhinsdale Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1084273,
+          55.8514806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1989697477",
+      "properties": {
+        "@id": "node/1989697477",
+        "amenity": "pub",
+        "name": " Log cabin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1050065,
+          55.8503825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1989699115",
+      "properties": {
+        "@id": "node/1989699115",
+        "amenity": "pub",
+        "name": "By the way"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1100812,
+          55.8503042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1996081589",
+      "properties": {
+        "@id": "node/1996081589",
+        "amenity": "pub",
+        "name": "Walkabout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2551325,
+          55.8650727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2009186949",
+      "properties": {
+        "@id": "node/2009186949",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "251",
+        "addr:postcode": "G22 5JX",
+        "addr:street": "Saracen Street",
+        "amenity": "pub",
+        "name": "Balmore Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2545209,
+          55.8840339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2009187002",
+      "properties": {
+        "@id": "node/2009187002",
+        "amenity": "pub",
+        "name": "The Saracen Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2539504,
+          55.8836521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2014163918",
+      "properties": {
+        "@id": "node/2014163918",
+        "amenity": "pub",
+        "name": "Bothy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2259783,
+          55.7604123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2018744172",
+      "properties": {
+        "@id": "node/2018744172",
+        "amenity": "pub",
+        "name": "The Gulf Of Corryvrechan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3642647,
+          55.8831443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2018775390",
+      "properties": {
+        "@id": "node/2018775390",
+        "amenity": "pub",
+        "name": "The Lucky Break Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4055281,
+          55.8997104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2038184318",
+      "properties": {
+        "@id": "node/2038184318",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "26",
+        "amenity": "pub",
+        "food": "yes",
+        "internet_access": "wlan",
+        "name": "26 Hope Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2588739,
+          55.8595835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2050322308",
+      "properties": {
+        "@id": "node/2050322308",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "21",
+        "addr:postcode": "G2 6BZ",
+        "addr:street": "Waterloo Street",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Rhoderick Dhu",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-00:00",
+        "operator": "Belhaven Pubs",
+        "phone": "0141 221 5479",
+        "real_ale": "yes",
+        "website": "http://www.rhoderickdhu-glasgow.co.uk",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.259919,
+          55.8602122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2058384113",
+      "properties": {
+        "@id": "node/2058384113",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Wee Mill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2078383,
+          55.8334626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2058587082",
+      "properties": {
+        "@id": "node/2058587082",
+        "amenity": "pub",
+        "name": "First & Last"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2998705,
+          55.897278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2058587083",
+      "properties": {
+        "@id": "node/2058587083",
+        "amenity": "pub",
+        "name": "Rams Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3001763,
+          55.8971396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2063761930",
+      "properties": {
+        "@id": "node/2063761930",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "131",
+        "addr:street": "Old Castle Road",
+        "amenity": "pub",
+        "name": "The Old Smiddy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2576481,
+          55.8150047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2070039386",
+      "properties": {
+        "@id": "node/2070039386",
+        "amenity": "pub",
+        "name": "Fereneze Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3923001,
+          55.8031505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2095456769",
+      "properties": {
+        "@id": "node/2095456769",
+        "amenity": "pub",
+        "name": "Tolbooth Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.243835,
+          55.8563159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2096325786",
+      "properties": {
+        "@id": "node/2096325786",
+        "amenity": "pub",
+        "name": "The Lampost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2442902,
+          55.8559875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2096325787",
+      "properties": {
+        "@id": "node/2096325787",
+        "amenity": "pub",
+        "name": "The Old Ship Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2459585,
+          55.8546861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2096360556",
+      "properties": {
+        "@id": "node/2096360556",
+        "amenity": "pub",
+        "name": "East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2432506,
+          55.8560095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2096429334",
+      "properties": {
+        "@id": "node/2096429334",
+        "amenity": "pub",
+        "name": "The Saracen Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2378829,
+          55.8556277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2098412563",
+      "properties": {
+        "@id": "node/2098412563",
+        "amenity": "pub",
+        "name": "The Burnbrae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3166749,
+          55.9313031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2098493404",
+      "properties": {
+        "@id": "node/2098493404",
+        "amenity": "pub",
+        "name": "Bells Bar",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2309859,
+          55.8822222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2098493419",
+      "properties": {
+        "@id": "node/2098493419",
+        "amenity": "pub",
+        "name": "Shevlanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2307782,
+          55.8822849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2098493520",
+      "properties": {
+        "@id": "node/2098493520",
+        "amenity": "pub",
+        "name": "Thomsons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.229629,
+          55.8837295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2109291614",
+      "properties": {
+        "@id": "node/2109291614",
+        "amenity": "pub",
+        "name": "The New Variety Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2233523,
+          55.8581767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2143129234",
+      "properties": {
+        "@id": "node/2143129234",
+        "amenity": "pub",
+        "name": "Annie Millers Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2514662,
+          55.855364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2145855283",
+      "properties": {
+        "@id": "node/2145855283",
+        "amenity": "pub",
+        "name": "Alpen Lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2593769,
+          55.859177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2147655413",
+      "properties": {
+        "@id": "node/2147655413",
+        "addr:housenumber": "157",
+        "addr:street": "Queen Street",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2518681,
+          55.8606455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2150759539",
+      "properties": {
+        "@id": "node/2150759539",
+        "amenity": "pub",
+        "name": "The Swan Inn, Banton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0055945,
+          55.9897354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2172153166",
+      "properties": {
+        "@id": "node/2172153166",
+        "amenity": "pub",
+        "name": "Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2274466,
+          55.8495563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2172153169",
+      "properties": {
+        "@id": "node/2172153169",
+        "amenity": "pub",
+        "name": "The Crimson Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.228262,
+          55.8497611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2172153172",
+      "properties": {
+        "@id": "node/2172153172",
+        "amenity": "pub",
+        "name": "Walkers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2270931,
+          55.8494773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2218547895",
+      "properties": {
+        "@id": "node/2218547895",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "557",
+        "addr:street": "Gallowgate",
+        "amenity": "pub",
+        "name": "Kerry's Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2229355,
+          55.8550281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2260567795",
+      "properties": {
+        "@id": "node/2260567795",
+        "amenity": "pub",
+        "name": "Braemar Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2404305,
+          55.854823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2260567853",
+      "properties": {
+        "@id": "node/2260567853",
+        "amenity": "pub",
+        "name": "The Foggy Dew"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2384895,
+          55.8544523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2260567858",
+      "properties": {
+        "@id": "node/2260567858",
+        "amenity": "pub",
+        "name": "The Olde Burnt Barns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2388265,
+          55.8545989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2260567867",
+      "properties": {
+        "@id": "node/2260567867",
+        "amenity": "pub",
+        "name": "Whistlin' Kirk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.245529,
+          55.8542657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2264896466",
+      "properties": {
+        "@id": "node/2264896466",
+        "amenity": "pub",
+        "name": "Sharkey's Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2514928,
+          55.8511936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2351193289",
+      "properties": {
+        "@id": "node/2351193289",
+        "addr:housenumber": "93",
+        "addr:postcode": "ML3 8AG",
+        "addr:street": "Meikle Earnock Road",
+        "amenity": "pub",
+        "name": "Guy's Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0557519,
+          55.7573115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2351613435",
+      "properties": {
+        "@id": "node/2351613435",
+        "amenity": "pub",
+        "name": "The Duke Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0586329,
+          55.7653831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2364455563",
+      "properties": {
+        "@id": "node/2364455563",
+        "addr:housenumber": "408",
+        "addr:postcode": "G51 1BE",
+        "addr:street": "Paisley Road West",
+        "amenity": "pub",
+        "name": "Kensington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2971754,
+          55.8517338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2370881496",
+      "properties": {
+        "@id": "node/2370881496",
+        "amenity": "pub",
+        "name": "Stumps"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3096187,
+          55.8708833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2371177507",
+      "properties": {
+        "@id": "node/2371177507",
+        "amenity": "pub",
+        "name": "Fiddler's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3073151,
+          55.8711336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2372465187",
+      "properties": {
+        "@id": "node/2372465187",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "232-246",
+        "addr:postcode": "G3 6ND",
+        "addr:street": "Woodlands Road",
+        "amenity": "pub",
+        "name": "Dram!",
+        "website": "http://www.dramglasgow.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.276876,
+          55.8711543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2378261366",
+      "properties": {
+        "@id": "node/2378261366",
+        "amenity": "pub",
+        "name": "The Mountblow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4323807,
+          55.9125489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2493799254",
+      "properties": {
+        "@id": "node/2493799254",
+        "amenity": "pub",
+        "name": "Allison Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2699529,
+          55.8367586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2528470100",
+      "properties": {
+        "@id": "node/2528470100",
+        "amenity": "pub",
+        "name": "The Drake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2731709,
+          55.8684743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2531751980",
+      "properties": {
+        "@id": "node/2531751980",
+        "amenity": "pub",
+        "name": "Cheers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0179404,
+          55.8124711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2569543972",
+      "properties": {
+        "@id": "node/2569543972",
+        "amenity": "pub",
+        "name": "The Regent Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2705399,
+          55.8364178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2654921848",
+      "properties": {
+        "@id": "node/2654921848",
+        "amenity": "pub",
+        "name": "The Old Original Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.095346,
+          55.7946568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2677306104",
+      "properties": {
+        "@id": "node/2677306104",
+        "amenity": "pub",
+        "name": "The Kind Man's",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3876305,
+          55.8783481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2804286839",
+      "properties": {
+        "@id": "node/2804286839",
+        "amenity": "pub",
+        "name": "The Grapes Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.287558,
+          55.852516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2819585387",
+      "properties": {
+        "@id": "node/2819585387",
+        "amenity": "pub",
+        "name": "The Louden Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2893448,
+          55.85313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2819585701",
+      "properties": {
+        "@id": "node/2819585701",
+        "amenity": "pub",
+        "name": "The Viceroy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.279959,
+          55.853664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2872690519",
+      "properties": {
+        "@id": "node/2872690519",
+        "addr:city": "Blanefield",
+        "addr:housenumber": "54",
+        "addr:postcode": "G63 9BP",
+        "addr:street": "Glasgow Road",
+        "amenity": "pub",
+        "name": "Blane Valley Inn",
+        "opening_hours": "11:00 til Midnight",
+        "phone": "+44 (0)1360 770303",
+        "smoking": "outside",
+        "website": "http://www.blanevalleyinn.co.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.31455,
+          55.9878175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2923899259",
+      "properties": {
+        "@id": "node/2923899259",
+        "amenity": "pub",
+        "name": "Burns Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0182627,
+          55.8190568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2934049101",
+      "properties": {
+        "@id": "node/2934049101",
+        "amenity": "pub",
+        "name": "BJ's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.324838,
+          55.89012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2934131801",
+      "properties": {
+        "@id": "node/2934131801",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.329143,
+          55.895778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2961521605",
+      "properties": {
+        "@id": "node/2961521605",
+        "amenity": "pub",
+        "name": "The Bells"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1746905,
+          55.8437984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2961521606",
+      "properties": {
+        "@id": "node/2961521606",
+        "amenity": "pub",
+        "name": "The Weaverley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1733953,
+          55.8435728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3010361206",
+      "properties": {
+        "@id": "node/3010361206",
+        "amenity": "pub",
+        "name": "The Railway Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1598146,
+          55.8512402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3010361207",
+      "properties": {
+        "@id": "node/3010361207",
+        "amenity": "pub",
+        "name": "The Kirkhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1600185,
+          55.8515323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3011766623",
+      "properties": {
+        "@id": "node/3011766623",
+        "amenity": "pub",
+        "name": "Argyle Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.110719,
+          55.85007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3034716532",
+      "properties": {
+        "@id": "node/3034716532",
+        "amenity": "pub",
+        "name": "Academical Vaults"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0553671,
+          55.778357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3061322063",
+      "properties": {
+        "@id": "node/3061322063",
+        "addr:city": "East Kilbride, Glasgow",
+        "addr:housenumber": "14-16",
+        "addr:postcode": "G74 1JR",
+        "addr:street": "Cornwall Way",
+        "amenity": "pub",
+        "name": "Hudsons",
+        "opening_hours": "Mo-Sa 11:00-24:00;Su 12:30-24:00",
+        "website": "http://www.hudsonsglasgow.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1749299,
+          55.7610366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3138888449",
+      "properties": {
+        "@id": "node/3138888449",
+        "amenity": "pub",
+        "name": "The Jazz Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0614733,
+          55.8264027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3138888469",
+      "properties": {
+        "@id": "node/3138888469",
+        "amenity": "pub",
+        "name": "The Stables Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0616801,
+          55.8267897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152363878",
+      "properties": {
+        "@id": "node/3152363878",
+        "amenity": "pub",
+        "name": "Inn Deep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2806897,
+          55.8747396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3249991666",
+      "properties": {
+        "@id": "node/3249991666",
+        "amenity": "pub",
+        "name": "The Fiveways"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1980106,
+          55.8515854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250604915",
+      "properties": {
+        "@id": "node/3250604915",
+        "amenity": "pub",
+        "name": "Anchor Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1985798,
+          55.8517369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3324982150",
+      "properties": {
+        "@id": "node/3324982150",
+        "amenity": "pub",
+        "name": "The Viking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.284386,
+          55.8868455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3456076309",
+      "properties": {
+        "@id": "node/3456076309",
+        "amenity": "pub",
+        "name": "Woodside Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.037634,
+          55.7716443
+        ]
+      }
+    }
+  ]
+}

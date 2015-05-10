@@ -1,0 +1,13 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^4.6"
+    },
+
+    "autoload": {
+        "psr-4": {"MGDM\\": "src/"}
+    },
+
+    "autoload-dev": {
+        "psr-4": {"MGDM\\Tests\\": "tests/"}
+    }
+}
