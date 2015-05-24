@@ -41,3 +41,4 @@ if (file_exists(CACHE_FILE)) {
 
 $target = new KdNode([55.864996, -4.284858]);
 var_dump($tree->nearestNeighbour($target)[0]->getValue());
+printf ("Used %d bytes\n", memory_get_peak_usage());

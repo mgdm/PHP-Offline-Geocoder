@@ -81,8 +81,6 @@ class KdTree {
 
     protected function sortByDimension($nodes, $dimension)
     {
-        echo "Sorting by {$dimension}\n";
-        $t = microtime(true);
         $vals = array_map(function($n) use ($dimension) {
             return $n->getPoint()[$dimension];
         }, $nodes);
@@ -92,8 +90,6 @@ class KdTree {
             return $nodes[$v];
         }, array_keys($vals));
 
-        echo "Time: ", microtime(true) - $t, "\n";
-        echo "Done\n";
         return $sortedNodes;
     }
 
