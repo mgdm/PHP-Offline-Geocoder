@@ -51,7 +51,7 @@ class KdNode {
         $sum = 0;
         foreach ($this->getPoint() as $dimension => $coordinate) {
             $d = $coordinate - $point[$dimension];
-            $sum += pow($d, 2);
+            $sum += $d * $d;
         }
 
         return $sum;

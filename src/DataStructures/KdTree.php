@@ -130,8 +130,13 @@ class KdTree {
         $leftHr = clone($hr);
         $rightHr = clone($hr);
 
-        $leftHr->getMax()[$split] = $pivot[$split];
-        $rightHr->getMin()[$split] = $pivot[$split];
+        $leftHrMax = $leftHr->getMax();
+        $leftHrMax[$split] = $pivot[$split];
+        $leftHr->setMax($leftHrMax);
+
+        $rightHrMin = $rightHr->getMin();
+        $rightHrMin[$split] = $pivot[$split];
+        $rightHr->setMin($rightHrMin);
 
         if ($targetPoint[$split] <= $pivot[$split]) {
             $nearerKd = $node->getLeft();
