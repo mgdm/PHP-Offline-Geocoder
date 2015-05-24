@@ -1,12 +1,8 @@
 <?php
 /**
- * The data used by this example was generated from the Overpass API
- * instance at http://overpass-turbo.eu/ using the following query:
- *
- * node
- *   [amenity=pub]
- *   ({{bbox}});
- * out;
+ * The data used by this example was ultimately taken from Geonames, but this processed
+ * version is from the Python reverse geocoder at
+ * https://github.com/thampiman/reverse-geocoder/
  */
 
 use MGDM\DataStructures\HyperRect;
